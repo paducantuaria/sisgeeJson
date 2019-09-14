@@ -8,4 +8,7 @@
     { "matricula": 1, "nome": "Professor 1" },
     { "matricula": 2, "nome": "Professor 2" }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
