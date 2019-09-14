@@ -1,0 +1,11 @@
+{
+  "aluno": [
+    { "matricula": 1, "nome": "Aluno 1" },
+    { "matricula": 2, "nome": "Aluno 2" },
+    { "matricula": 3, "nome": "Aluno 3" }
+  ],
+  "professor": [
+    { "matricula": 1, "nome": "Professor 1" },
+    { "matricula": 2, "nome": "Professor 2" },
+  ]
+}
