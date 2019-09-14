@@ -1,11 +1,29 @@
 {
   "aluno": [
-    { "matricula": 1, "nome": "Aluno 1" },
-    { "matricula": 2, "nome": "Aluno 2" },
-    { "matricula": 3, "nome": "Aluno 3" }
+    { 
+      "matricula": "0123456WEB",
+      "nome": "Aluno Teste Json 1",
+      "curso": "Tecnólogo em Sistemas para Internet",
+      "siglaCurso": "TSI",
+      "campus": "Maracanã"
+    },
+    { 
+      "matricula": "1111111BCC", 
+      "nome": "Aluno Teste Json 2",
+      "curso": "Bacharelado em Ciências da Computação",
+      "siglaCurso": "BCC",
+      "campus": "Maracanã"
+    },
+    { 
+      "matricula": "2222222ENG",
+      "nome": "Aluno Teste Json 3",
+      "curso": "Engenharia",
+      "siglaCurso": "ENG",
+      "campus": "Itaguaí"
+    }
   ],
   "professor": [
-    { "matricula": 1, "nome": "Professor 1" },
-    { "matricula": 2, "nome": "Professor 2" }
+    { "siape": 1, "nome": "Professor 1" },
+    { "siape": 2, "nome": "Professor 2" }
   ]
 }
