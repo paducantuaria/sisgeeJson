@@ -6,7 +6,7 @@
       "cpf": "12345678901",
       "curso": "Tecnólogo em Sistemas para Internet",
       "siglaCurso": "TSI",
-      "tipo": "GRADUACAO"
+      "tipo": "GRADUACAO",
       "campus": "Maracanã"
     },
     { 
@@ -15,7 +15,7 @@
       "cpf": "12345678902",
       "curso": "Bacharelado em Ciências da Computação",
       "siglaCurso": "BCC",
-      "tipo": "GRADUACAO"
+      "tipo": "GRADUACAO",
       "campus": "Maracanã"
     },
     { 
@@ -24,7 +24,7 @@
       "cpf": "12345678903",
       "curso": "Engenharia",
       "siglaCurso": "ENG",
-      "tipo": "GRADUACAO"
+      "tipo": "GRADUACAO",
       "campus": "Itaguaí"
     }
   ],
