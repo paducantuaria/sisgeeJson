@@ -3,6 +3,7 @@
     { 
       "matricula": "0123456WEB",
       "nome": "Aluno Teste Json 1",
+      "cpf": "12345678901",
       "curso": "Tecnólogo em Sistemas para Internet",
       "siglaCurso": "TSI",
       "campus": "Maracanã"
@@ -10,6 +11,7 @@
     { 
       "matricula": "1111111BCC", 
       "nome": "Aluno Teste Json 2",
+      "cpf": "12345678902",
       "curso": "Bacharelado em Ciências da Computação",
       "siglaCurso": "BCC",
       "campus": "Maracanã"
@@ -17,6 +19,7 @@
     { 
       "matricula": "2222222ENG",
       "nome": "Aluno Teste Json 3",
+      "cpf": "12345678903",
       "curso": "Engenharia",
       "siglaCurso": "ENG",
       "campus": "Itaguaí"
