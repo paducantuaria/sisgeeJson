@@ -19,11 +19,11 @@
       "campus": "Maracanã"
     },
     { 
-      "matricula": "2222222ENG",
+      "matricula": "2222222ADM",
       "nome": "Aluno Teste Json 3",
       "cpf": "12345678903",
-      "curso": "Engenharia",
-      "siglaCurso": "ENG",
+      "curso": "Administração",
+      "siglaCurso": "ADMV",
       "tipo": "GRADUACAO",
       "campus": "Itaguaí"
     }
